@@ -7,7 +7,6 @@ npm-debug.log
 *.sh
 private
 _posts/2017-04-06-bookworm-htb.markdown
-_posts/2017-04-06-cybermonday-htb.markdown
 _posts/2017-04-06-zipping-htb.markdown
 _posts/2017-04-06-download-htb.markdown
 _posts/2017-04-06-pilgrimage-htb.markdown
@@ -30,7 +29,6 @@ _articulos/MyExpense-xxslab.markdown
 
 writeups/assets/img/jet-htb
 writeups/assets/img/Aws-htb
-writeups/assets/img/CyberMonday-htb
 writeups/assets/img/Aero-htb
 writeups/assets/img/Zipping-htb
 writeups/assets/img/Download-htb
