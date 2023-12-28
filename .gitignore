@@ -22,6 +22,8 @@ _posts/2017-04-06-fighter-htb.markdown
 _posts/2017-04-06-devel-htb.markdown
 _posts/2017-04-06-aero-htb.markdown
 
+_posts/2017-04-06-devvortex-htb.markdown
+
 _articulos/entorno-ecppt.markdown
 _articulos/kernel-exploit.markdown
 _articulos/minishare-bof.markdown
@@ -41,6 +43,9 @@ writeups/assets/img/Bookworm-htb
 writeups/assets/img/Soccer-htb
 writeups/assets/img/Fighter-htb
 writeups/assets/img/Hathor-htb
-
+writeups/assets/img/Devvortex-htb
 
 _posts/2017-04-06-stocker-htb.markdown
+
+Gemfile
+Gemfile.lock
