@@ -1,0 +1,18 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "Gemfile",
+            "use": "@vercel/ruby"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/_site/$1"
+        }
+    ],
+    "build": {
+        "command": "npm run build"
+    }
+}
